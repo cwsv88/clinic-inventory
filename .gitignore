@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.env.*
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+.build/
+npm-debug.log
+pnpm-lock.yaml
+yarn.lock
+
+# Docker
+.env.local
+docker-compose.override.yml
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
